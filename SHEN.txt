@@ -1,0 +1,13 @@
+git add <file>
+git commit -m"add a xx file"
+shen shuaiting 
+git commit --amend   	i插入
+删除文件 Git rm 文件名
+git rm -f 文件名
+git add <file>
+git commit -m"add a xx file"
+shen shuaiting 
+git commit --amend   	i插入
+删除文件 Git rm 文件名
+git rm -f 文件名
+重命名 git mv 旧文件名 新的文件名
